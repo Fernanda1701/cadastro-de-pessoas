@@ -69,13 +69,13 @@ Com o <b>POST</b> bem sucedido, teremos o cadastro do mesmo no <b>Banco de Dados
 
 ## ⚙️ Execução
 
-Após baixar o projeto, abra-o na IDE de sua preferência e rode-o. Quando rodar ele abrirá no seguninte endereco:
+Após baixar o projeto, abra-o na IDE de sua preferência e rode-o. Quando rodar ele abrirá no seguninte endereço:
 
 ```bash
 http://localhost:8080/clientes
 ```
 
-Nele será peritido efetuar requisições HTTP. Para ter acesso ao Banco de Dados, abra no seguinte endereço
+Nele será peritido efetuar requisições HTTP. Para ter acesso ao Banco de Dados, abra no seguinte endereço:
 
 ```bash
 http://localhost:8080/h2
